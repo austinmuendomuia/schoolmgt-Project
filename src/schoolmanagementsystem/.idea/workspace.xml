@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68fb15cd-f795-4d5a-9160-a291dc8dfb82" name="Changes" comment="FULL_CODE">
-      <change afterPath="$PROJECT_DIR$/../resources/UNION UNIVERSITY.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/Admin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/AdminDashboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/AttendanceMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/CourseMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/FacultyMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/HomeScreen.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/JDBconnector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LecAttendanceMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LecCourseMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LecEnrollMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LecturerDashboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LecturerDashboard1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LecturerMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LoginGui$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/LoginGui.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/StudentDashboard.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/StudentMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/UnitMgt.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/lecturerdashboard1234.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/lecturerdashboard12345.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/piechart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/schoolmanagementsystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/schoolmanagementsystem/schoolmanagementsystem/studentscharts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +99,7 @@
       <workItem from="1743115627142" duration="51584000" />
       <workItem from="1745659505346" duration="9643000" />
       <workItem from="1745920819028" duration="277000" />
-      <workItem from="1745921150122" duration="2067000" />
+      <workItem from="1745921150122" duration="3343000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <option name="closed" value="true" />
@@ -171,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745754083384</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="FULL_CODE">
+      <option name="closed" value="true" />
+      <created>1745923433389</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745923433390</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
