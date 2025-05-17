@@ -9,7 +9,7 @@ public class UnitMgt {
         frame.setSize(400, 350);
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setLayout(new BorderLayout());
-//blahh
+
         JLabel titleLabel = new JLabel("Unit", SwingConstants.CENTER);
         titleLabel.setFont(new Font("Arial", Font.BOLD, 20));
         titleLabel.setOpaque(true);
